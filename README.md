@@ -6,9 +6,9 @@ This repo contains the code from this paper:
 
 To generate the cluttered omniglot dataset:
   
-  run "get_omniglot.ipynb" 
+    run "get_omniglot.ipynb" 
   
-  then run "get_dataset.ipynb"
+    then run "get_dataset.ipynb"
   
   This will create 5 datasets:
   
